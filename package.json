@@ -1,0 +1,14 @@
+{
+  "name": "single-run-node-template",
+  "version": "1.0.0",
+  "description": "template for running node script 1 time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Wesley Reed",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3"
+  }
+}
